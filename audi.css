@@ -1,0 +1,304 @@
+
+body{
+    margin:0;
+    height: fit-content;
+    width: 100%;
+}
+.logoimg{    width: 75px;
+    margin-left: 80px;
+    margin-top: 12px;
+    float: left;
+    cursor: pointer;
+
+}
+.header{
+    height: 63px;
+    width: 100%;
+}
+.index{
+    float: left;
+    list-style-type: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    color: gray;
+}
+.index:hover{
+    opacity: 3;
+    color: #000;
+}
+li{
+    list-style-type: none;
+}
+a{
+    padding-left: 10px;
+    text-decoration: none;
+}
+ul{
+    margin-left: -16px;
+}
+.search{
+    width: 24px;
+    float: right;
+    margin-right: -712px;
+    margin-top: -5px;
+    cursor: pointer;
+}
+.mainimg{
+    width: 100%;
+    
+    
+}
+.heading{
+    font-size: 54px;
+    position: absolute;
+    top: 8%;
+    width: 66%;
+    text-align: left;
+    margin-left: 75px;
+    font-family: 'Montserrat', sans-serif;
+}
+.subheading{
+    font-size: 25px;
+    position: absolute;
+    top: 18%;
+    width: 66%;
+    text-align: left;
+    margin-left:75px;
+    font-family: 'Montserrat', sans-serif;
+}
+.explore{
+    font-size: 17px;
+    position: absolute;
+    margin-top: 11%;
+    width: 150px;
+    text-align: center;
+    float: left;
+    margin-left: -95%;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+}
+.explore:hover{
+    opacity: 0.8;
+}
+.modelpic{
+    float: left;
+
+}
+.carimg{
+    width: 300px;
+     float: left;
+     margin-bottom: 23px;
+     transition: transform.6s;
+}
+.carimg:hover{
+    transform: scale(1.05);
+}
+.modelpic{
+    width: auto;
+    cursor: pointer;
+}
+.main2img{
+width: 100%;
+
+}
+.modelname{
+    float: left;
+}
+.text{
+    padding-left: 50%;
+    
+}
+.paragraph{
+font-size: 21px;
+    position: absolute;
+    top: 200%;
+    height: 288px;
+    width: 36%;
+    text-align: left;
+    margin-left: 220px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+    opacity: 90%;
+    
+
+}
+.edis{
+    margin-top: 63px;
+    margin-bottom: 66px;
+}
+.electrichome{
+    text-align: center;
+    
+}
+.e-tron{
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 120px;
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+}
+.e-tron:hover{
+    opacity: 0.8;
+}
+.future{
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
+.future:hover{
+    opacity: 1;
+}
+.p2{
+    margin-left: 20px;
+}
+.models{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 19px;
+    margin-left: 44px;
+}
+.helptoshape{
+    text-align: center;
+    font-size: 58px;
+}
+.combained{
+    font-size: 20px;
+    text-align: center;
+
+
+}
+.immerse{
+    font-size: 20px;
+    text-align: center;
+
+}
+.map{
+    width: 50%;
+    float: right;
+}
+.finder{
+      
+height: 422px;
+}
+.locate{
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 50px;
+
+}
+.live{
+    font-size: 18px;
+    margin-left: 50px;
+}
+.searchlocation{
+    margin-left: 50px;
+    width: 525px;
+    height: 35px;
+    border-bottom: 1px solid #000;
+    border-left: 0ch;
+    border-right: 0ch;
+    border-top: 0;
+    font-size: 20px;
+    bottom: #e2e2e4;a
+    
+}
+.searchlocation:focus{
+    outline: none;
+}
+.locationsearchimg{
+    width: 50px;
+    margin-top: -38px;
+    margin-left: 38%;
+}
+.searchsub{
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 50px;
+    height: 52px;
+    width: 235px;
+    background-color: #000;
+    color: #fff;
+    
+}
+.searchsub:hover{
+    opacity: 0.8;
+}
+
+.footer{
+    float: left;
+    background-color: #000;
+    width: 100%;
+    margin-top: 100px;
+    
+    
+
+}
+.footerh{
+    font-size: 20px;
+    margin-bottom: 30px;
+    
+    
+}
+
+.footerul{
+    float: left;
+    margin-left: 80px;
+    margin-top: 90px;
+}
+.footerc{
+    color: #fff;
+
+}
+.footerb{
+    padding-bottom: 10px;
+}
+.social{
+    float: right;
+    background-color: #000;
+    width: 100%;
+    color: #fff;
+    margin: left 10px;
+}
+.socialr{
+    margin-left: 78%;
+    font-size: 20px;
+}
+.space{
+    padding: 10px;
+}
+hr{
+    width: 90%;
+    height: 0.8px;
+    color: grey;
+}
+.final{
+    color: #fff;
+}
+.copyh{
+    float: left;
+    padding: 10px;
+    color: #fff;
+    margin-top: 20px;
+    margin-left: 67px;
+}
+.copyb{
+    font-size: 16px;
+    float: left;
+    background-color: #000;
+    color: #fff;
+    height: 250px;
+    
+}
+.copyp{
+    margin-left: 75px;
+    margin-right: 75px;
+}
